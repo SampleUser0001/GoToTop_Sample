@@ -8,6 +8,8 @@ Topへ戻るのサンプル
 - [Sample02](./html/Sample02.html)
   - A-Frameにボタンを貼り付ける
 - [Sample03](./html/Sample03.html)
+  - A-Frame + AR.js + a-entityタブ
+- [Sample04](./html/Sample04.html)
   - A-Frame + AR.js
 
 ## 参考
