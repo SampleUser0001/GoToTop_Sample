@@ -8,7 +8,7 @@ Topへ戻るのサンプル
 - [Sample02](./html/Sample02.html)
   - A-Frameにボタンを貼り付ける
 - [Sample03](./html/Sample03.html)
-  - A-Frame + AR.js (工事中)
+  - A-Frame + AR.js
 
 ## 参考
 
